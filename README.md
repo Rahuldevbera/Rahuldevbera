@@ -3,7 +3,7 @@
 <h3 align="center">B. Tech in Electrical Engineering</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuldevbera&label=Profile%20views&color=0e75b6&style=flat" alt="rahuldevbera" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahuldevbera&theme=" alt="rahuldevbera" /></a> </p>
+
 
 - 🌱 I’m currently learning **Java,HTML,CSS,DBMS**
 
